@@ -1,0 +1,1 @@
+add Inst.ogg and Voices.ogg, or both Voices-Opponent.ogg or Voices-Player.ogg (voices files is optional as i said.)
